@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP OWASP Istanbul
+title: OWASP Istanbul
 tags: example-tag
 region: Europe
 
