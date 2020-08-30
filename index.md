@@ -3,7 +3,6 @@
 layout: col-sidebar
 title: OWASP Istanbul
 tags: owaspistanbul
-site_side: true
 meetup-group: owaspistanbul
 region: Europe
 
