@@ -7,6 +7,8 @@ region: Europe
 
 ---
 
+{% include writers.html %}
+
 ## Welcome
 Welcome to the Istanbul chapter homepage. Everyone is welcome to join us at our chapter meetings. The chapter board is <a href="mailto:rumeysa.bozdemir@owasp.org">Rumeysa Bozdemir</a>
 Follow chapter news on Twitter [Twitter](https://twitter.com/OWASPIstanbul) | [Meetup](https://www.meetup.com/tr-TR/OWASPistanbul)
