@@ -5,7 +5,7 @@
 
 ### Social Links
 * [Twitter](https://twitter.com/OWASPIstanbul)
-* [Meetup.com](https://www.meetup.com/tr-TR/OWASPistanbul)
+* [Meetup](https://www.meetup.com/tr-TR/OWASPistanbul)
 
 ### Code Repository
 * [Page Repo](https://github.com/OWASP/www-chapter-istanbul)
