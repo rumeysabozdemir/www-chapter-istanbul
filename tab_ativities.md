@@ -8,4 +8,4 @@ tags: owaspistanbul
 
 ## Activities
 
-...
+ {% include chapter_events.html group=page.meetup-group %} 
