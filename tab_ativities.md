@@ -6,6 +6,6 @@ order: 1
 tags: owaspistanbul
 ---
 
-## Activities
+## Check our Upcoming Meetup Events:
 
- {% include chapter_events.html group=owaspistanbul %} 
+ {% include chapter_events.html group=page.meetup-group %} 
