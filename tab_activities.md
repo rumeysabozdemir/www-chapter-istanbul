@@ -1,5 +1,5 @@
 ---
-title: Ativities
+title: Activities
 layout:  null
 tab: true
 order: 1
