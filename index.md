@@ -14,6 +14,12 @@ Welcome to the Istanbul chapter homepage. Everyone is welcome to join us at our 
 Follow chapter news on [Twitter](https://twitter.com/OWASPIstanbul) | [Meetup](https://www.meetup.com/OWASPIstanbul/)
 
 ## Past Events
+Chapter Meeting - 04.04.2021 (Online)<br>
+[OWASP - Broken Authentication & Math Captcha](https://www.meetup.com/tr-TR/OWASPistanbul/events/277256226/)
+* [Presentation](https://www.slideshare.net/RumeysaBozdemir/broken-authentication-owasp-istanbul)
+* [Video](https://youtube.com/c/rumeysabozdemir)
+<hr>
+
 Chapter Meeting - 02.10.2021 (Online)<br>
 [OWASP - Web App Hacking & Sohbet](https://www.meetup.com/tr-TR/OWASPistanbul/events/276188658/)
 * [Presentation](https://www.slideshare.net/RumeysaBozdemir/web-app-hacking-owasp-istanbul-242538417)
