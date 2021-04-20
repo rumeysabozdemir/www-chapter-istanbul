@@ -1,6 +1,6 @@
 ### OWASP Istanbul Information
-* [Local Chapter Support](https://www.owasp.org/index.php/Local_Chapter_Supporter)
-* [Chapter Leader Handbook](https://www.owasp.org/index.php/Chapter_Leader_Handbook)
+* [Local Chapter Support](https://owasp.org/supporters/
+* [Chapter Policy](https://owasp.org/www-policy/operational/chapters)
 * [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
 
 ### Social Links
