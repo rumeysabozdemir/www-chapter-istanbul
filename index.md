@@ -17,7 +17,7 @@ Follow chapter news on [Twitter](https://twitter.com/OWASPIstanbul) | [Meetup](h
 Chapter Meeting - 04.04.2021 (Online)<br>
 [OWASP - Broken Authentication & Math Captcha](https://www.meetup.com/tr-TR/OWASPistanbul/events/277256226/)
 * [Presentation](https://www.slideshare.net/RumeysaBozdemir/broken-authentication-owasp-istanbul)
-* [Video](https://youtu.be/9X20AdV-Y60)
+* [Video](https://youtu.be/9X20AdV-Y60)  
 <hr>
 
 Chapter Meeting - 02.10.2021 (Online)<br>
