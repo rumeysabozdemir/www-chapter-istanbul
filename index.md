@@ -14,7 +14,7 @@ Welcome to the Istanbul chapter homepage. Everyone is welcome to join us at our 
 Follow chapter news on [Twitter](https://twitter.com/OWASPIstanbul) | [Meetup](https://www.meetup.com/OWASPIstanbul/)
 
 ## Past Events
-Chapter Meeting - 26.05.2021 (Online)<br>
+Chapter Meeting - 05.26.2021 (Online)<br>
 [OWASP - Burp Suite İle Brute Force Attack](https://www.meetup.com/tr-TR/OWASPistanbul/events/278208217/)
 * [Presentation](https://www.slideshare.net/RumeysaBozdemir/burp-suite-ile-brute-force-attack-owasp-istanbul-248577080)
 * [Video](https://www.youtube.com/c/rumeysabozdemir)
