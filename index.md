@@ -15,7 +15,7 @@ Follow chapter news on [Twitter](https://twitter.com/OWASPIstanbul) | [Meetup](h
 
 ## Past Events
 Chapter Meeting - 09.07.2021 (Online)<br>
-OWASP - Burp Suite İle Brute Force Attack
+[OWASP - Tanışma & Soru Cevap](https://www.meetup.com/tr-TR/OWASPistanbul/events/280485477)
 * [Video](https://www.youtube.com/watch?v=lQSwFsXFeZg)
 <hr>
 
