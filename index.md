@@ -14,6 +14,11 @@ Welcome to the Istanbul chapter homepage. Everyone is welcome to join us at our 
 Follow chapter news on [Twitter](https://twitter.com/OWASPIstanbul) | [Meetup](https://www.meetup.com/OWASPIstanbul/)
 
 ## Past Events
+Chapter Meeting - 11.29.2021 (Online)<br>
+[OWASP - Siber Güvenlik Alanında Kariyer Yapmak](https://www.meetup.com/tr-TR/OWASPistanbul/events/282161960/)
+* [Presentation](https://www.slideshare.net/RumeysaBozdemir/owasp-siber-gvenlik-sektrnde-kariyer-yapmak)
+<hr>
+
 Chapter Meeting - 09.07.2021 (Online)<br>
 [OWASP - Tanışma & Soru Cevap](https://www.meetup.com/tr-TR/OWASPistanbul/events/280485477)
 * [Video](https://www.youtube.com/watch?v=lQSwFsXFeZg)
