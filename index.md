@@ -14,6 +14,12 @@ Welcome to the Istanbul chapter homepage. Everyone is welcome to join us at our 
 Follow chapter news on [Twitter](https://twitter.com/OWASPIstanbul) | [Meetup](https://www.meetup.com/OWASPIstanbul/)
 
 ## Past Events
+Chapter Meeting - 01.30.2022 (Online)<br>
+[OWASP - Burp Suite File Upload Attack](https://www.meetup.com/tr-TR/OWASPistanbul/events/283545355/)
+* [Presentation](https://www.slideshare.net/RumeysaBozdemir/burp-suite-ile-file-upload-attack-owasp-istanbul)
+* [Detailed Article](https://bilisimcikiz.com/2022/01/29/file-upload-vulnerabilities/)
+<hr>
+
 Chapter Meeting - 11.29.2021 (Online)<br>
 [OWASP - Siber Güvenlik Alanında Kariyer Yapmak](https://www.meetup.com/tr-TR/OWASPistanbul/events/282161960/)
 * [Presentation](https://www.slideshare.net/RumeysaBozdemir/owasp-siber-gvenlik-sektrnde-kariyer-yapmak)
