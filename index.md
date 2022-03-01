@@ -18,7 +18,7 @@ Chapter Meeting - 01.30.2022 (Online)<br>
 [OWASP - Burp Suite File Upload Attack](https://www.meetup.com/tr-TR/OWASPistanbul/events/283545355/)
 * [Presentation](https://www.slideshare.net/RumeysaBozdemir/burp-suite-ile-file-upload-attack-owasp-istanbul)
 * [Detailed Article](https://bilisimcikiz.com/2022/01/29/file-upload-vulnerabilities/)
-* [Video](https://youtu.be/ve00jLSBjR4)
+* [Video](https://www.youtube.com/watch?v=ve00jLSBjR4)
 <hr>
 
 Chapter Meeting - 11.29.2021 (Online)<br>
