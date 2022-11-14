@@ -14,6 +14,13 @@ Welcome to the Istanbul chapter homepage. Everyone is welcome to join us at our 
 Follow chapter news on [Twitter](https://twitter.com/OWASPIstanbul) | [Meetup](https://www.meetup.com/OWASPIstanbul/)
 
 ## Past Events
+Chapter Meeting - 11.05.2022 (Online)<br>
+[OWASP - Burp Suite SQL Injection Attack](https://www.meetup.com/tr-TR/owaspistanbul/events/288963937/)
+* [Presentation](https://www.slideshare.net/RumeysaBozdemir/burp-suite-sql-injection-attack-owasp-istanbul)
+* [Detailed Article](https://bilisimcikiz.com/2022/11/05/sql-injection-vulnerabilities/)
+* [Video](https://youtu.be/PY_ILvOiJmY)
+<hr>
+
 Chapter Meeting - 04.10.2022 | IEEE İstanbul Kültür Üniversitesi WIE<br>
 [OWASP - Siber Güvenlik Sektöründe Kariyer Yapmak](https://www.meetup.com/tr-TR/OWASPistanbul/events/284304932/ins)
 * [Video](https://www.instagram.com/reel/CcL1i2IDHC8/?utm_source=ig_web_copy_link)
