@@ -16,6 +16,7 @@ Follow chapter news on [Twitter](https://twitter.com/OWASPIstanbul) | [Meetup](h
 ## Past Events
 Chapter Meeting - 11.19.2022 (Online)<br>
 [OWASP - Vulnerable Flask App Anlatımı](https://www.meetup.com/tr-TR/owaspistanbul/events/289756672/)
+* [Presentation](https://www.slideshare.net/anilyelken/owaspvulnerableflaskapp)
 <hr>
 
 Chapter Meeting - 11.05.2022 (Online)<br>
