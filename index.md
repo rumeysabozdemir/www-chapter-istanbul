@@ -5,7 +5,7 @@ title: OWASP Istanbul
 tags: owaspistanbul
 meetup-group: owaspistanbul
 country: Turkey
-region: Europe
+region: Asia
 
 ---
 
